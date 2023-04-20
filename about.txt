@@ -1,0 +1,7 @@
+Simple web-site, mini-blog or somethong like this.
+
+Stack:
+Django 4, SQLite
+
+Home page with some posts which can be open in a full size.
+Adding comments and likes by sessions.
